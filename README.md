@@ -1,20 +1,15 @@
-# React + Vite
+🚗 carUpTime
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplicación web para el seguimiento del mantenimiento de vehículos: registro de mantenimientos (aceite, ITV, neumáticos, revisiones...) y alertas cuando algo está próximo a vencer, por fecha o por kilometraje.
 
-Currently, two official plugins are available:
+Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-## React Compiler
+Frontend: React + Vite
+Backend: Java + Spring Boot
+Base de datos: PostgreSQL
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
 
-Note: This will impact Vite dev & build performances.
+Estado del proyecto
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# carUpTime
-# carUpTime
+🚧 En desarrollo activo
