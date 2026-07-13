@@ -1,0 +1,62 @@
+[
+    {
+        "photo": "../../public/dashboard/carExample.webp",
+        "marca": "Seat",
+        "modelo": "Leon FR",
+        "matricula": "4111 XLS",
+        "km": "62.480km",
+        "estado": "crítico",
+        "proximo": [
+            {
+                "necesita": "ITV",
+                "fecha": "2026/08/10",
+                "kmlimite": null
+            }
+        ]
+    },
+    {
+        "photo": "../../public/dashboard/carExample.webp",
+        "marca": "Seat",
+        "modelo": "Leon FR",
+        "matricula": "4111 XLS",
+        "km": "62.480km",
+        "estado": "crítico",
+        "proximo": [
+            {
+                "necesita": "ITV",
+                "fecha": "2026/08/10",
+                "kmlimite": null
+            }
+        ]
+    },
+    {
+        "photo": "../../public/dashboard/carExample.webp",
+        "marca": "Seat",
+        "modelo": "Leon FR",
+        "matricula": "4111 XLS",
+        "km": "62.480km",
+        "estado": "crítico",
+        "proximo": [
+            {
+                "necesita": "ITV",
+                "fecha": "2026/08/10",
+                "kmlimite": null
+            }
+        ]
+    },
+    {
+        "photo": "../../public/dashboard/carExample.webp",
+        "marca": "Seat",
+        "modelo": "Leon FR",
+        "matricula": "4111 XLS",
+        "km": "62.480km",
+        "estado": "crítico",
+        "proximo": [
+            {
+                "necesita": "ITV",
+                "fecha": "2026/08/10",
+                "kmlimite": null
+            }
+        ]
+    }
+]
